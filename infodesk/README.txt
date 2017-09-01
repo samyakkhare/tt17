@@ -1,6 +1,6 @@
 Infodesk portal by:
-Manoj srivatsav - frontend,backend
-Rakshit Goyal,Samyak khare - Backend(Registeration,time stamp,Multiple login)
+Manoj srivatsav - Frontend,Backend
+Rakshit Goyal,Samyak khare - Backend(Login,Registration,time stamp,Multiple login,Logout)
 Aritra basu - Backend(Search)
 Pranav tharoor - Backend(Login Logout)
 
